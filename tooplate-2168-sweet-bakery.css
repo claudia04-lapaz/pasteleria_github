@@ -44,7 +44,7 @@ body {
 	background: linear-gradient(180deg,
 			rgba(181, 234, 215, 0.2) 0%,
 			rgba(137, 207, 240, 0.15) 30%,
-			rgba(255, 248, 240, 0.95) 60%,
+			rgba(153, 42, 218, 0.95) 60%,
 			var(--cream) 100%);
 	color: var(--text-dark);
 	min-height: 100vh;
